@@ -524,7 +524,7 @@ button.active {
 <body>
 <div class="container">
 
-<h1>My Rowing Tracker</h1>
+<h1>My Rowing Tracker - Test</h1>
 
 <div class="status" id="statusBox">
     <div class="status-title" id="statusTitle">
